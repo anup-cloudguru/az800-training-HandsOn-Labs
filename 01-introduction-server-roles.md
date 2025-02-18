@@ -16,9 +16,11 @@ A **client** is a user device such as a PC, laptop, or tablet that requests serv
 The **operating system (OS)** is the foundation that manages hardware and software resources. In the context of Windows Server, the OS allows administrators to install applications, configure security policies, and manage networking components.
 
 Popular Windows Server versions include:
-- Windows Server 2019
-- Windows Server 2016
-- Windows Server 2012 R2
+- Windows Server 2025 *(latest LTSC release, focuses on security and hybrid cloud integration)*
+- Windows Server 2022 *(enhanced security, Azure hybrid features, and application flexibility)*
+- Windows Server 2019 *(better hybrid cloud capabilities, security, and HCI improvements)*
+- Windows Server 2016 *(introduced Windows Containers, Nano Server, and improved security features)*
+- Windows Server 2012 R2 *(enhanced virtualization and storage capabilities)*
 
 ## What are Roles in Windows Server?
 A **role** in Windows Server defines a specific function or set of services the server provides within a network. Roles are made up of components called **role services**, which add functionality to the role.
